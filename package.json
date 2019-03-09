@@ -2,8 +2,10 @@
   "name": "grow-frontend-exercise",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:3200",
   "dependencies": {
     "axios": "^0.18.0",
+    "cors": "^2.8.5",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
